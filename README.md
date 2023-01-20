@@ -10,22 +10,4 @@
 ![logo]([https://cdn.discordapp.com/attachments/468141324906921984/875302120553861160/main.png](https://media.tenor.com/VZMGMHTJsZwAAAAC/undertale-yellow-flowers.gif))
 (Old image)
 
-# User customization
-**This theme is very customizable. The variables in the theme file allow you to change many things**
-- **Background image**
-- **Home icon**
-- **Colors**
-
-# Links 
-**[Download From BetterDiscord](https://betterdiscord.app/theme/Ocean)** <br>
-**[Website](https://devevil.com)** <br>
-**[Support Server](https://discord.gg/jsQ9UP7kCA)** <br>
-**[Contact](https://devevil.com/contact)** <br>
-
-# My Other Themes
-- **[Dark+](https://betterdiscord.app/theme/Dark%2B)**
-- **[Neptune](https://betterdiscord.app/theme/Neptune)**
-- **[Azurite](https://betterdiscord.app/theme/Azurite)**
-
-**Made with 💙 by [DevEvil#8745](https://devevil.com/)**
 
