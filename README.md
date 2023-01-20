@@ -7,7 +7,7 @@
 <br>
 
 
-![logo](https://cdn.discordapp.com/attachments/468141324906921984/875302120553861160/main.png)
+![logo]([https://cdn.discordapp.com/attachments/468141324906921984/875302120553861160/main.png](https://media.tenor.com/VZMGMHTJsZwAAAAC/undertale-yellow-flowers.gif))
 (Old image)
 
 # User customization
